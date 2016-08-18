@@ -1,0 +1,28 @@
+body {
+	color: #FFF;
+	background-position: center top;
+	background-image: url("http://i215.photobucket.com/albums/cc19/athenian82/AEG_0001.jpg");
+	background-repeat:no-repeat;
+	font-size: 20px;
+	font-weight: bold;
+}
+head{
+	font-size: 40px
+	color: #FFF;
+}
+h1{
+	text-align: center;
+	color: #FFFF00;
+	font-weight: bold;
+}
+p {
+	text-align: center;
+	color: #FFF;
+}
+ul
+li
+img
+#slogan {
+	text-align: center;
+	font-style: italic;
+}
